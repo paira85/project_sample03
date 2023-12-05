@@ -1,0 +1,37 @@
+
+  ol,
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  .header {
+    position: relative;
+  }
+  
+  .header .menu {
+    position: absolute;
+    top: 10px;
+    right: 0;
+  }
+  
+  .header .link {
+    border: 1px solid #333;
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #efefef;
+    font-weight: bold;
+    border-radius: 4px;
+  }
+  

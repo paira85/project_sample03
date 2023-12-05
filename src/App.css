@@ -1,6 +1,3 @@
-.App {
-  text-align: center;
-}
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +32,32 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.btn_del {
+  margin-left: 10px;
+  color: #fff;
+  background-color: firebrick;
+}
+
+
+button {
+  padding: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  cursor: pointer;
+  border: 0 none;
+  border-radius: 6px;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: dodgerblue;
+}
+
+.footer {
+  width:100%;
+  height:40px;
+  text-align : center;
+  background-color: #ddd;
+  margin-top: 10px;
 }
